@@ -1,5 +1,8 @@
 # structure-algorithim
 
+## record  data-structure & algorithim
+Project was created by @vue/cli 4.1 .
+
 ## Project setup
 ```
 npm install
